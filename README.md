@@ -5,3 +5,11 @@ Users can select from a predefined list of stock names to predict the prices.
 
 * [Django](https://www.djangoproject.com/) - Django 3.0
 * [Python](https://www.python.org/) - Python 3.7.x
+
+## Install all essential libraris
+pandas
+numpy
+tensorflow
+keras
+sci-kit learn
+django
